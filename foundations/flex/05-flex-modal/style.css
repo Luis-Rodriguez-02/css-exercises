@@ -30,6 +30,7 @@ body {
 .modal-main {
   margin-left: 10px;
   padding: 10px;
+  align-items: center;
 }
 
 .icon {
@@ -64,6 +65,8 @@ body {
 .header {
   display: flex;
   margin-bottom: 5px;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .header button {
